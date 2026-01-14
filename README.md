@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ## Few things about me:
 
-- 🌱 I’m currently learning Github Actions
+- 🌱 I’m currently learning **Github Actions** (Automating the survival kit!)
+- 🔭 I’m currently building scalable LLM Routed Workflows for BPO and Chat Customer Service.
+- 💼 Working on **Real-world MVPs** focusing on concurrency, security, scalability and backend resilience.
 
   
 ## Tools and Knowledge I use:
@@ -29,3 +31,30 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF5E00?style=for-the-badge&logo=llama&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-1A1A1A?style=for-the-badge&logo=crewai&logoColor=white)
+
+
+---
+
+## 🚀 Current MVP Spotlight: Miako App
+
+I am currently refactoring and building a robust LLM backend designed for scalability and handling large internet traffic **while maintaining peak performance.**
+**Goal:** A high-concurrency LLM Routed Workflow capable of handling voice and text for customer service replying in secs for better user experience (UX). Also able to understand Generation Z terms, catch up with modern slang and expressions, and able to understand context and words outside the English language.
+
+- **Repo:** [NanaMein/miako-app-mvp](https://github.com/NanaMein/miako-app-mvp)
+- **Tech:** FastAPI (Async + Threadpool), SQLModel, LlamaIndex RAG, JWT Tokens, Groq Chat Completions 
+
+> *Building the engine that powers the next generation of automated support.*
+
+---
+
+## 🚧 Live Development Tracking
+
+I believe in **Building in Public**. I don't just write code; I manage the product lifecycle. 
+You can track my real-time progress, active Issues, and Pull Requests for the **Miako App** directly on my board.
+
+[![Development Board](https://img.shields.io/badge/View_Live_Roadmap-Kanban-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/NanaMein/projects/7)
+
+**Current Status:**
+- 🐛 **Tracking:** Active Issues & Feature Requests
+- 🔨 **Building:** Async FastAPI Backend & LLM Workflow
+- 🚀 **Deploying:** MVP Refactoring
