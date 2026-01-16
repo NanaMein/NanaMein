@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## 🚀 Current MVP Spotlight: Miako App
 
 I am currently refactoring and building a robust LLM backend designed for scalability and handling large internet traffic **while maintaining peak performance.**
+
 **Goal:** A high-concurrency LLM Routed Workflow capable of handling voice and text for customer service replying in secs for better user experience (UX). Also able to understand Generation Z terms, catch up with modern slang and expressions, and able to understand context and words outside the English language.
 
 - **Repo:** [NanaMein/miako-app-mvp](https://github.com/NanaMein/miako-app-mvp)
