@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
-## Few things about me:
+## Few things I'm doing right now:
 
 - 🌱 I’m currently learning **Github Actions** (Automating the survival kit!)
 - 🔭 I’m currently building scalable LLM Routed Workflows for BPO and Chat Customer Service.
@@ -41,7 +41,7 @@ I am currently refactoring and building a robust LLM backend designed for scalab
 **Goal:** A high-concurrency LLM Routed Workflow capable of handling voice and text for customer service replying in secs for better user experience (UX). Also able to understand Generation Z terms, catch up with modern slang and expressions, and able to understand context and words outside the English language.
 
 - **Repo:** [NanaMein/miako-app-mvp](https://github.com/NanaMein/miako-app-mvp)
-- **Tech:** FastAPI (Async + Threadpool), SQLModel, LlamaIndex RAG, JWT Tokens, Groq Chat Completions 
+- **Tech:** FastAPI (Async + Threadpool + SQLModel), LlamaIndex RAG, JWT Tokens, Groq AI SDK, Crew AI Flow  
 
 > *Building the engine that powers the next generation of automated support.*
 
