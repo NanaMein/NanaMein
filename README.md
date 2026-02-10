@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a self-taught developer building open-source, production-ready LLM applications to solve real-world problems. My GitHub profile is my portfolio—a living showcase of scalable backends, resilient workflows, and tools built to help others. Currently focused on high-concurrency customer service automation and system design. Open to collaborating and sharing knowledge.
+
 <!--
 **NanaMein/NanaMein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
