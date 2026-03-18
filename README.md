@@ -26,32 +26,25 @@
 </table>
 
 ### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfeo111/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aevq1234@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KAEUwsXmB7)
 
 ### 🎮 Dev Life Stats (Unofficial but Fun!)
 | Metric | Value | Mood |
 |--------|-------|------|
-| ☕ Coffee Consumed | ∞ | 🫠 |
-| 🐛 Bugs Squashed | 142 | 🎯 |
-| 🤖 LLM Calls Today | 1,337 | 🧠✨ |
-| 🌙 Late Night Commits | 89% | 🦉 |
-| 💬 "It works on my machine" | Rarely | 🙈 |
-| People looking at my git hub right now | ![Profile Views](https://komarev.com/ghpvc/?username=NanaMein&color=blue) | QwQ
-
-
-
+| ☕ Coffee Consumed | `∞` (Infinite) | 🫠 |
+| 🐛 Bugs Squashed | `142` (and counting!) | 🎯 |
+| 🤖 LLM Calls Today | `1,337` (Leet!) | 🧠✨ |
+| 🌙 Late Night Commits | `89%` | 🦉 |
+| 💬 "It works on my machine" | `Rarely` (oops) | 🙈 |
+| 👀 Souls currently watching | *Wait, let me check...* <br> ![Views](https://komarev.com/ghpvc/?username=NanaMein&color=blue&label=Total+Visitors) | 🫣💓 |
 
 
 
 ## 🔥 Contribution Graph
 
 ![Contribution Graph](https://ghchart.rshah.org/NanaMein?bg=1a1a1a&title=00ff00&line=ff0000&c1=ff6b6b&c2=4ecdc4&c3=45b7d1&c4=f9ca24)
-
-
-
-
 
 
 
