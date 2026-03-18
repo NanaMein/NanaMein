@@ -1,8 +1,15 @@
-# 👋 Hello, I'm NanaMein
+## 👋 Konnichi wa, Visitor-san!
 
-![Profile Views](https://komarev.com/ghpvc/?username=NanaMein&color=blue)
+> *"Code with heart, deploy with care."*  
+> I'm NanaMein — your friendly neighborhood AI Engineer-in-training 🛠️🤖  
+> Currently brewing scalable LLM backends one async function at a time~ ☕
 
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,azure,linux" alt="Tech Stack" />
+</div>
 
 
 
@@ -18,17 +25,31 @@
   </tr>
 </table>
 
+### 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-link)
+
+### 🎮 Dev Life Stats (Unofficial but Fun!)
+| Metric | Value | Mood |
+|--------|-------|------|
+| ☕ Coffee Consumed | ∞ | 🫠 |
+| 🐛 Bugs Squashed | 142 | 🎯 |
+| 🤖 LLM Calls Today | 1,337 | 🧠✨ |
+| 🌙 Late Night Commits | 89% | 🦉 |
+| 💬 "It works on my machine" | Rarely | 🙈 |
+| People looking at my git hub right now | ![Profile Views](https://komarev.com/ghpvc/?username=NanaMein&color=blue) | QwQ
+
+
+
+
 
 
 ## 🔥 Contribution Graph
 
-![Contribution Graph](https://ghchart.rshah.org/NanaMein)
+![Contribution Graph](https://ghchart.rshah.org/NanaMein?bg=1a1a1a&title=00ff00&line=ff0000&c1=ff6b6b&c2=4ecdc4&c3=45b7d1&c4=f9ca24)
 
-## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,azure,linux" alt="Tech Stack" />
-</div>
 
 
 
@@ -38,20 +59,7 @@
 
 I'm a self-taught developer building open-source, production-ready LLM applications to solve real-world problems. My GitHub profile is my portfolio—a living showcase of scalable backends, resilient workflows, and tools built to help others. Currently focused on high-concurrency customer service automation and system design. Open to collaborating and sharing knowledge.
 
-<!--
-**NanaMein/NanaMein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
 ## Few things I'm doing right now:
 
 - 🌱 I’m currently learning **Github Actions** (Automating the survival kit!)
