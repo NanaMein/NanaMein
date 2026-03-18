@@ -1,3 +1,39 @@
+# 👋 Hello, I'm NanaMein
+
+![Profile Views](https://komarev.com/ghpvc/?username=NanaMein&color=blue)
+
+
+
+
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=NanaMein&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaMein&theme=tokyonight" /></td>
+  </tr>
+<tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaMein&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+
+
+## 🔥 Contribution Graph
+
+![Contribution Graph](https://ghchart.rshah.org/NanaMein)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,azure,linux" alt="Tech Stack" />
+</div>
+
+
+
+
+
 ## Hi there 👋
 
 I'm a self-taught developer building open-source, production-ready LLM applications to solve real-world problems. My GitHub profile is my portfolio—a living showcase of scalable backends, resilient workflows, and tools built to help others. Currently focused on high-concurrency customer service automation and system design. Open to collaborating and sharing knowledge.
