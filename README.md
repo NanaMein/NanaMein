@@ -17,8 +17,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NanaMein&show_icons=true&theme=tokyonight" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaMein&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=NanaMein&show_icons=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaMein" /></td>
   </tr>
 <tr>
     <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaMein&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
